@@ -1,0 +1,6 @@
+name: AntiBuild
+version: 1.0-SNAPSHOT
+main: tr.donsuzturk.antibuild.Main
+api-version: 1.17
+authors: [ DonsuzTurk ]
+description: Allows you to prohibit placing and breaking blocks.
